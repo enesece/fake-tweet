@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-bambola: "Bambola", cursive;
+  --color-tweet-black: #141414;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+  -webkit-text-size-adjust: 100%;
+}
